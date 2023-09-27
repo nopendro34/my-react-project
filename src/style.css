@@ -1,3 +1,10 @@
 .header {
 	text-align: center;
+	background-color: lightblue;
+	padding: 29px;
+}
+
+.content p {
+	background-color: lightgreen;
+	padding: 26px;
 }
